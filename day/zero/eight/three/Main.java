@@ -2,8 +2,8 @@ package day.zero.eight.three;
 
 public class Main {
     public static void main(String[] args) {
-        Sub sub = new Sub();
-        Main main = new Main();
+        new Sub();
+        new Main();
     }
 
     Main(){

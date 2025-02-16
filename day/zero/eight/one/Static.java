@@ -24,13 +24,13 @@ public class Static {
         s1.a = 50;
         s2.a = 100;
 
-        s1.b = 50;
-        s2.b = 100;
+        b = 50;
+        b = 100;
 
         System.out.println("s1.a: " + s1.a);
         System.out.println("s2.a: " + s2.a);
-        System.out.println("s1.b: " + s1.b);
-        System.out.println("s2.b: " + s2.b);
+        System.out.println("s1.b: " + b);
+        System.out.println("s2.b: " + b);
 
     }
 }
